@@ -1,0 +1,1 @@
+select count(*) from d0k02ll.LINEITEM limit 10
